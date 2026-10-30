@@ -2,38 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://cr-1.github.io/student-resources-site/</loc>
-         <lastmod>2026-10-28</lastmod>
+         <lastmod>2026-10-30</lastmod>
     </url>
     <url>
          <loc>https://cr-1.github.io/student-resources-site/Fiction/</loc>
-         <lastmod>2026-10-28</lastmod>
+         <lastmod>2026-10-30</lastmod>
     </url>
     <url>
          <loc>https://cr-1.github.io/student-resources-site/Non-fiction/</loc>
-         <lastmod>2026-10-28</lastmod>
+         <lastmod>2026-10-30</lastmod>
     </url>
     <url>
          <loc>https://cr-1.github.io/student-resources-site/about/</loc>
-         <lastmod>2026-10-28</lastmod>
+         <lastmod>2026-10-30</lastmod>
     </url>
     <url>
          <loc>https://cr-1.github.io/student-resources-site/contributing/</loc>
-         <lastmod>2026-10-28</lastmod>
+         <lastmod>2026-10-30</lastmod>
     </url>
     <url>
          <loc>https://cr-1.github.io/student-resources-site/courses/</loc>
-         <lastmod>2026-10-28</lastmod>
+         <lastmod>2026-10-30</lastmod>
+    </url>
+    <url>
+         <loc>https://cr-1.github.io/student-resources-site/glossary/</loc>
+         <lastmod>2026-10-30</lastmod>
     </url>
     <url>
          <loc>https://cr-1.github.io/student-resources-site/online-resources/</loc>
-         <lastmod>2026-10-28</lastmod>
+         <lastmod>2026-10-30</lastmod>
     </url>
     <url>
          <loc>https://cr-1.github.io/student-resources-site/projects/</loc>
-         <lastmod>2026-10-28</lastmod>
+         <lastmod>2026-10-30</lastmod>
     </url>
     <url>
          <loc>https://cr-1.github.io/student-resources-site/readings/</loc>
-         <lastmod>2026-10-28</lastmod>
+         <lastmod>2026-10-30</lastmod>
     </url>
 </urlset>
