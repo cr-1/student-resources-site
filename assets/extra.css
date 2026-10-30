@@ -16,3 +16,8 @@
 .md-typeset a:hover {
   color: #005f8f;
 }
+
+/* Hide redundant site title in the sidebar */
+.md-nav--primary > .md-nav__title {
+  display: none;
+}
