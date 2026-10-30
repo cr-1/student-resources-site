@@ -4,3 +4,15 @@
   --md-primary-fg-color--dark: #22252B;
   --md-accent-fg-color: #607D8B;
 }
+
+/* Make links more visible */
+.md-typeset a {
+  color: #0047da;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* Change colour when hovering over links */
+.md-typeset a:hover {
+  color: #005f8f;
+}
